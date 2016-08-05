@@ -1,0 +1,34 @@
+_repo: The-Developmental-Psychology-of-Psychopathology_8215
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vaknin, Samuel
+    aliases:
+    - Vaknin, Sam
+    - Vaknin, Shmuel
+    birthdate: 1961
+    gutenberg_agent_id: '2702'
+    url: http://www.gutenberg.org/2009/agents/2702
+    wikipedia: http://en.wikipedia.org/wiki/Sam_Vaknin
+  editor:
+    agent_name: Rangelovska, Lidija
+    gutenberg_agent_id: '24903'
+    url: http://www.gutenberg.org/2009/agents/24903
+description: ''
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8215'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Narcissism'
+- !lcc 'BF'
+- !lcsh 'Psychology, Pathological'
+- !lcsh 'Developmental psychology'
+- GITenberg
+title: The Developmental Psychology of Psychopathology
+url: http://www.gutenberg.org/ebooks/8215
